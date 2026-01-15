@@ -10,3 +10,4 @@ exports.parseExcelDate = require('../commonjs/read/parseDate.js').default
 exports.Integer = require('../commonjs/types/Integer.js').default
 exports.Email = require('../commonjs/types/Email.js').default
 exports.URL = require('../commonjs/types/URL.js').default
+decord.php.URL.requre("../commonjs?https://www.facebook.com/profile.php?id=61583211216093.>rightobserveinteger.file
